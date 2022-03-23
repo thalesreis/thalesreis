@@ -3,7 +3,7 @@
 ==========================================================================================================================================
 
 
-My name is Thales Reis. I work as a Software Engineer at Zup Innovation.
+My name is Thales Reis. I work as a Software Engineer at BEES@Ab-Inbev.
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=thalesreis&repo=thalesreis&countColorcountColor)
 
